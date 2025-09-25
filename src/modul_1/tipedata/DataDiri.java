@@ -9,7 +9,7 @@ public class DataDiri {
         nama = "Wilda";
         alamat = "Bayu";
         tinggi = 150;
-        usia = 5;
+        usia = 19;
 
         System.out.println("name: " + nama);
         System.out.println("alamat: " + alamat);
