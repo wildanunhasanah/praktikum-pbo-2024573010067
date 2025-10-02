@@ -6,15 +6,15 @@ public class InputOutputDemo {
         Scanner input = new Scanner(System.in);
 
         // Membaca input string
-        System.out.print("Wildanun Hasanah: ");
+        System.out.print("Masukkan nama Anda: ");
         String nama = input.nextLine();
 
         // Membaca input integer
-        System.out.print("19: ");
+        System.out.print("Masukkan umur Anda: ");
         int umur = input.nextInt();
 
         // Membaca input double
-        System.out.print("150 (cm): ");
+        System.out.print("Masukkan tinggi Anda (cm): ");
         double tinggi = input.nextDouble();
 
         // Menampilkan output
